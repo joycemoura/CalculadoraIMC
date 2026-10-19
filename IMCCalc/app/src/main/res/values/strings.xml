@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMCCalc</string>
+
+    <string name="titulo">Calculadora IMC</string>
+    <string name="rotuloAltura">Altura</string>
+    <string name="rotuloPeso">Peso</string>
+    <string name="rotuloResultado">Resultado</string>
+
+    <string name="hintAltura">Entre com a altura.</string>
+    <string name="hintPeso">Entre com o peso.</string>
+
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>
